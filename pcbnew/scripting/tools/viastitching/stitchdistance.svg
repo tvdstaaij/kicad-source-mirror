@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3353"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="stitchdistance.svg">
+  <defs
+     id="defs3355">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4259"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4256"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4256-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4259-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-5-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4256-8-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4259-7-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="312.22021"
+     inkscape:cy="386.85565"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridtolerance="10000"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="false"
+     inkscape:snap-bbox="true"
+     showguides="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3361"
+       dotted="true"
+       units="mm"
+       spacingx="3.5433071"
+       spacingy="3.5433072"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.5;fill:#00ff00;stroke:none"
+       d="M 53.15625 538.4375 L 53.15625 609.28125 L 53.15625 609.4375 L 53.15625 680.28125 L 53.15625 751.15625 L 123.96875 751.15625 L 124.15625 751.15625 L 194.8125 751.15625 L 194.8125 751.1875 L 265.8125 751.1875 L 265.8125 751.15625 L 336.59375 751.15625 L 336.59375 751.09375 L 336.625 751.09375 L 336.625 538.4375 L 336.59375 538.4375 L 265.65625 538.4375 L 265.65625 538.46875 L 194.96875 538.46875 L 194.96875 538.4375 L 124.15625 538.4375 L 123.96875 538.4375 L 53.15625 538.4375 z M 88.65625 547.3125 A 26.62497 26.624974 0 0 1 115.28125 573.9375 A 26.62497 26.624974 0 0 1 88.65625 600.5625 A 26.62497 26.624974 0 0 1 62.03125 573.9375 A 26.62497 26.624974 0 0 1 88.65625 547.3125 z M 159.46875 547.3125 A 26.624973 26.624975 0 0 1 186.09375 573.9375 A 26.624973 26.624975 0 0 1 159.46875 600.5625 A 26.624973 26.624975 0 0 1 132.84375 573.9375 A 26.624973 26.624975 0 0 1 159.46875 547.3125 z M 301.15625 547.3125 A 26.624971 26.624976 0 0 1 327.78125 573.9375 A 26.624971 26.624976 0 0 1 301.15625 600.5625 A 26.624971 26.624976 0 0 1 274.53125 573.9375 A 26.624971 26.624976 0 0 1 301.15625 547.3125 z M 230.34375 547.34375 A 26.624969 26.624975 0 0 1 256.96875 573.96875 A 26.624969 26.624975 0 0 1 230.34375 600.59375 A 26.624969 26.624975 0 0 1 203.71875 573.96875 A 26.624969 26.624975 0 0 1 230.34375 547.34375 z M 88.65625 618.15625 A 26.624969 26.624972 0 0 1 115.28125 644.78125 A 26.624969 26.624972 0 0 1 88.65625 671.40625 A 26.624969 26.624972 0 0 1 62.03125 644.78125 A 26.624969 26.624972 0 0 1 88.65625 618.15625 z M 159.46875 618.15625 A 26.624978 26.624975 0 0 1 186.09375 644.78125 A 26.624978 26.624975 0 0 1 159.46875 671.40625 A 26.624978 26.624975 0 0 1 132.84375 644.78125 A 26.624978 26.624975 0 0 1 159.46875 618.15625 z M 301.125 618.15625 A 26.624972 26.624974 0 0 1 327.75 644.78125 A 26.624972 26.624974 0 0 1 301.125 671.40625 A 26.624972 26.624974 0 0 1 274.5 644.78125 A 26.624972 26.624974 0 0 1 301.125 618.15625 z M 230.3125 618.1875 A 26.624968 26.624976 0 0 1 256.9375 644.8125 A 26.624968 26.624976 0 0 1 230.3125 671.4375 A 26.624968 26.624976 0 0 1 203.6875 644.8125 A 26.624968 26.624976 0 0 1 230.3125 618.1875 z M 88.65625 689.03125 A 26.624972 26.624972 0 0 1 115.28125 715.65625 A 26.624972 26.624972 0 0 1 88.65625 742.28125 A 26.624972 26.624972 0 0 1 62.03125 715.65625 A 26.624972 26.624972 0 0 1 88.65625 689.03125 z M 159.46875 689.03125 A 26.624977 26.624972 0 0 1 186.09375 715.65625 A 26.624977 26.624972 0 0 1 159.46875 742.28125 A 26.624977 26.624972 0 0 1 132.84375 715.65625 A 26.624977 26.624972 0 0 1 159.46875 689.03125 z M 301.09375 689.03125 A 26.624973 26.624973 0 0 1 327.71875 715.65625 A 26.624973 26.624973 0 0 1 301.09375 742.28125 A 26.624973 26.624973 0 0 1 274.46875 715.65625 A 26.624973 26.624973 0 0 1 301.09375 689.03125 z M 230.3125 689.0625 A 26.624968 26.624977 0 0 1 256.9375 715.6875 A 26.624968 26.624977 0 0 1 230.3125 742.3125 A 26.624968 26.624977 0 0 1 203.6875 715.6875 A 26.624968 26.624977 0 0 1 230.3125 689.0625 z "
+       transform="translate(-4.9229925e-6,0)"
+       id="rect4564-1"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25001793,0,0,0.24998211,8.8497723,403.95177)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25001793,0,0,0.24998211,8.8497723,403.95177)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.25000003;stroke-opacity:1"
+       d="M 88.580092,551.87431 A 22.147259,22.144084 0 0 0 66.432509,574.01822 22.147259,22.144084 0 0 0 88.580092,596.16264 22.147259,22.144084 0 0 0 110.7272,574.01822 22.147259,22.144084 0 0 0 88.580092,551.87431 z m 0,11.07195 A 11.073629,11.072043 0 0 1 99.653643,574.01822 11.073629,11.072043 0 0 1 88.580092,585.0902 11.073629,11.072043 0 0 1 77.506061,574.01822 11.073629,11.072043 0 0 1 88.580092,562.94626 z"
+       id="path4197-1-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-1"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25011318,0,0,0.24990161,79.672033,404.01794)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-1"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25011318,0,0,0.24990161,79.672033,404.01794)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.25000736;stroke-opacity:1"
+       d="m 159.43272,551.89285 a 22.155697,22.136954 0 0 0 -22.15601,22.13678 22.155697,22.136954 0 0 0 22.15601,22.13729 22.155697,22.136954 0 0 0 22.15556,-22.13729 22.155697,22.136954 0 0 0 -22.15556,-22.13678 z m 0,11.06839 a 11.077847,11.068477 0 0 1 11.07778,11.06839 11.077847,11.068477 0 0 1 -11.07778,11.06841 11.077847,11.068477 0 0 1 -11.07823,-11.06841 11.077847,11.068477 0 0 1 11.07823,-11.06839 z"
+       id="path4197-1-0-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-7"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25004752,0,0,0.25006167,150.54139,403.9213)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-6"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25004752,0,0,0.25006167,150.54139,403.9213)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.2500546;stroke-opacity:1"
+       d="m 230.28114,551.89093 a 22.149881,22.151132 0 0 0 -22.15019,22.15095 22.149881,22.151132 0 0 0 22.15019,22.15147 22.149881,22.151132 0 0 0 22.14974,-22.15147 22.149881,22.151132 0 0 0 -22.14974,-22.15095 z m 0,11.07547 a 11.074939,11.075567 0 0 1 11.07487,11.07548 11.074939,11.075567 0 0 1 -11.07487,11.0755 11.074939,11.075567 0 0 1 -11.07534,-11.0755 11.074939,11.075567 0 0 1 11.07534,-11.07548 z"
+       id="path4197-1-0-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-2"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25037177,0,0,0.24973705,221.28521,404.15322)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-3"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25037177,0,0,0.24973705,221.28521,404.15322)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.25005424;stroke-opacity:1"
+       d="m 301.12837,551.93075 a 22.178604,22.122376 0 0 0 -22.17893,22.12221 22.178604,22.122376 0 0 0 22.17893,22.12271 22.178604,22.122376 0 0 0 22.17845,-22.12271 22.178604,22.122376 0 0 0 -22.17845,-22.12221 z m 0,11.0611 a 11.089301,11.061188 0 0 1 11.08922,11.06111 11.089301,11.061188 0 0 1 -11.08922,11.06112 11.089301,11.061188 0 0 1 -11.0897,-11.06112 11.089301,11.061188 0 0 1 11.0897,-11.06111 z"
+       id="path4197-1-0-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-9"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.24997735,0,0,0.24972438,8.8645304,474.99487)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-2"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.24997735,0,0,0.24972438,8.8645304,474.99487)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24985084;stroke-opacity:1"
+       d="M 88.581909,622.76492 A 22.143664,22.121254 0 0 0 66.437914,644.886 22.143664,22.121254 0 0 0 88.581909,667.00759 22.143664,22.121254 0 0 0 110.72543,644.886 22.143664,22.121254 0 0 0 88.581909,622.76492 z m 0,11.06053 A 11.071831,11.060628 0 0 1 99.65366,644.886 11.071831,11.060628 0 0 1 88.581909,655.94656 11.071831,11.060628 0 0 1 77.509677,644.886 11.071831,11.060628 0 0 1 88.581909,633.82545 z"
+       id="path4197-1-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-1-5"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25007258,0,0,0.24964396,79.675295,475.06098)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-1-4"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25007258,0,0,0.24964396,79.675295,475.06098)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24985817;stroke-opacity:1"
+       d="m 159.42304,622.78344 a 22.152101,22.114131 0 0 0 -22.15241,22.11395 22.152101,22.114131 0 0 0 22.15241,22.11447 22.152101,22.114131 0 0 0 22.15196,-22.11447 22.152101,22.114131 0 0 0 -22.15196,-22.11395 z m 0,11.05698 a 11.076049,11.057066 0 0 1 11.07598,11.05697 11.076049,11.057066 0 0 1 -11.07598,11.057 11.076049,11.057066 0 0 1 -11.07643,-11.057 11.076049,11.057066 0 0 1 11.07643,-11.05697 z"
+       id="path4197-1-0-5-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-7-2"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25000693,0,0,0.24980386,150.53314,474.96444)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-6-3"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25000693,0,0,0.24980386,150.53314,474.96444)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24990536;stroke-opacity:1"
+       d="m 230.25996,622.78152 a 22.146286,22.128294 0 0 0 -22.14659,22.12811 22.146286,22.128294 0 0 0 22.14659,22.12863 22.146286,22.128294 0 0 0 22.14614,-22.12863 22.146286,22.128294 0 0 0 -22.14614,-22.12811 z m 0,11.06405 a 11.073142,11.064148 0 0 1 11.07307,11.06406 11.073142,11.064148 0 0 1 -11.07307,11.06408 11.073142,11.064148 0 0 1 -11.07355,-11.06408 11.073142,11.064148 0 0 1 11.07355,-11.06406 z"
+       id="path4197-1-0-1-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-2-1"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25033113,0,0,0.24947957,221.26548,475.19612)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-3-1"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25033113,0,0,0.24947957,221.26548,475.19612)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24990502;stroke-opacity:1"
+       d="m 301.09569,622.8213 a 22.175004,22.099568 0 0 0 -22.17533,22.0994 22.175004,22.099568 0 0 0 22.17533,22.0999 22.175004,22.099568 0 0 0 22.17485,-22.0999 22.175004,22.099568 0 0 0 -22.17485,-22.0994 z m 0,11.04969 a 11.087501,11.049784 0 0 1 11.08742,11.04971 11.087501,11.049784 0 0 1 -11.08742,11.04971 11.087501,11.049784 0 0 1 -11.0879,-11.04971 11.087501,11.049784 0 0 1 11.0879,-11.04971 z"
+       id="path4197-1-0-2-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-9-9"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.24996182,0,0,0.24980484,8.8648375,545.79486)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-2-8"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.24996182,0,0,0.24980484,8.8648375,545.79486)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24988329;stroke-opacity:1"
+       d="m 88.57726,693.61253 a 22.142288,22.128381 0 0 0 -22.14262,22.12821 22.142288,22.128381 0 0 0 22.14262,22.12871 22.142288,22.128381 0 0 0 22.14214,-22.12871 22.142288,22.128381 0 0 0 -22.14214,-22.12821 z m 0,11.0641 A 11.071143,11.064192 0 0 1 99.648324,715.74074 11.071143,11.064192 0 0 1 88.57726,726.80486 11.071143,11.064192 0 0 1 77.505716,715.74074 11.071143,11.064192 0 0 1 88.57726,704.67663 z"
+       id="path4197-1-0-7-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-1-5-0"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25005704,0,0,0.24972439,79.671198,545.86098)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-1-4-2"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25005704,0,0,0.24972439,79.671198,545.86098)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24989066;stroke-opacity:1"
+       d="m 159.41399,693.63106 a 22.150725,22.121256 0 0 0 -22.15104,22.12107 22.150725,22.121256 0 0 0 22.15104,22.1216 22.150725,22.121256 0 0 0 22.15059,-22.1216 22.150725,22.121256 0 0 0 -22.15059,-22.12107 z m 0,11.06054 a 11.07536,11.060628 0 0 1 11.0753,11.06053 11.07536,11.060628 0 0 1 -11.0753,11.06056 11.07536,11.060628 0 0 1 -11.07574,-11.06056 11.07536,11.060628 0 0 1 11.07574,-11.06053 z"
+       id="path4197-1-0-5-3-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-7-2-0"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.2499914,0,0,0.24988434,150.52464,545.76443)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-6-3-2"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.2499914,0,0,0.24988434,150.52464,545.76443)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24993786;stroke-opacity:1"
+       d="m 230.24652,693.62914 a 22.14491,22.135424 0 0 0 -22.14522,22.13524 22.14491,22.135424 0 0 0 22.14522,22.13575 22.14491,22.135424 0 0 0 22.14476,-22.13575 22.14491,22.135424 0 0 0 -22.14476,-22.13524 z m 0,11.06761 a 11.072454,11.067713 0 0 1 11.07238,11.06763 11.072454,11.067713 0 0 1 -11.07238,11.06765 11.072454,11.067713 0 0 1 -11.07287,-11.06765 11.072454,11.067713 0 0 1 11.07287,-11.06763 z"
+       id="path4197-1-0-1-3-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none"
+       id="path4216-6-7-2-1-6"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       sodipodi:cx="318.89764"
+       sodipodi:cy="662.59845"
+       sodipodi:rx="64.222443"
+       sodipodi:ry="62.007885"
+       transform="matrix(0.25031558,0,0,0.24955995,221.25259,545.99618)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-4-3-1-5"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       sodipodi:cx="324.61417"
+       sodipodi:cy="692.03149"
+       sodipodi:rx="44.29134"
+       sodipodi:ry="44.291351"
+       transform="matrix(0.25031558,0,0,0.24955995,221.25259,545.99618)"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-width:0.24993749;stroke-opacity:1"
+       d="m 301.07784,693.66893 a 22.173626,22.106688 0 0 0 -22.17395,22.10651 22.173626,22.106688 0 0 0 22.17395,22.10703 22.173626,22.106688 0 0 0 22.17347,-22.10703 22.173626,22.106688 0 0 0 -22.17347,-22.10651 z m 0,11.05325 a 11.086812,11.053344 0 0 1 11.08672,11.05326 11.086812,11.053344 0 0 1 -11.08672,11.05328 11.086812,11.053344 0 0 1 -11.08722,-11.05328 11.086812,11.053344 0 0 1 11.08722,-11.05326 z"
+       id="path4197-1-0-2-3-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.89303279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.582672,786.61416 0,-70.64535 0,0"
+       id="path3370"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.89113438px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.44882,715.82152 0,70.34531 0,0"
+       id="path3370-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.95975918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-5-7);marker-end:url(#Arrow1Lend-0-1)"
+       d="m 89.062553,768.89762 69.906387,0 0,0"
+       id="path3401"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="118.57143"
+       y="786.64789"
+       id="text4591"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchdistance.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4593"
+         x="118.57143"
+         y="786.64789">d</tspan></text>
+  </g>
+</svg>

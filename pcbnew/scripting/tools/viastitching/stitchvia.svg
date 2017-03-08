@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3353"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="stitchvia.svg">
+  <defs
+     id="defs3355">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4259"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4256"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4256-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4259-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-5-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4256-8-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4259-7-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="180.48349"
+     inkscape:cy="343.1457"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     gridtolerance="10000"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="false"
+     inkscape:snap-bbox="true"
+     showguides="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3361"
+       dotted="true"
+       units="mm"
+       spacingx="3.5433071"
+       spacingy="3.5433072"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3358">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#00ff00;stroke:none;stroke-width:0.95118976;stroke-opacity:1;opacity:0.5"
+       d="M 177.16602 538.58203 L 177.16602 822.04688 L 460.63086 822.04688 L 460.63086 538.58203 L 177.16602 538.58203 z M 318.89844 574.01562 A 106.29922 106.29922 0 0 1 425.19727 680.31445 A 106.29922 106.29922 0 0 1 318.89844 786.61328 A 106.29922 106.29922 0 0 1 212.59766 680.31445 A 106.29922 106.29922 0 0 1 318.89844 574.01562 z "
+       id="rect4564"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#552200;stroke:none;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216-6"
+       cx="318.89764"
+       cy="662.59845"
+       rx="64.222443"
+       ry="62.007885"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#1a1a1a;stroke:#000000;stroke-width:0.9128713;stroke-opacity:1"
+       id="path4216"
+       cx="324.61417"
+       cy="692.03149"
+       rx="44.29134"
+       ry="44.291351"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff6600;stroke:#000000;stroke-opacity:1"
+       d="M 318.89844 591.73242 A 88.58268 88.582672 0 0 0 230.31445 680.31445 A 88.58268 88.582672 0 0 0 318.89844 768.89844 A 88.58268 88.582672 0 0 0 407.48047 680.31445 A 88.58268 88.582672 0 0 0 318.89844 591.73242 z M 318.89844 636.02344 A 44.29134 44.29134 0 0 1 363.18945 680.31445 A 44.29134 44.29134 0 0 1 318.89844 724.60547 A 44.29134 44.29134 0 0 1 274.60547 680.31445 A 44.29134 44.29134 0 0 1 318.89844 636.02344 z "
+       id="path4197-1"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83205032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 230.31496,556.29921 0,159.44882"
+       id="path4233"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.94306815px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 407.48031,556.51103 0,204.83688"
+       id="path4233-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 230.31496,574.01574 177.16535,0 0,0"
+       id="path4250"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="307.25702"
+       y="567.21716"
+       id="text4581"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4583"
+         x="307.25702"
+         y="567.21716">a</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83205032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 273.96503,644.88189 0,159.44878"
+       id="path4233-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.83205032px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 363.1811,644.04725 0,159.44878"
+       id="path4233-2-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Lstart-5);marker-end:url(#Arrow1Lend-0)"
+       d="m 274.61417,785.46456 88.56693,0 0,0"
+       id="path4250-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="307.15692"
+       y="817.37878"
+       id="text4581-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4583-6"
+         x="307.15692"
+         y="817.37878">b</tspan><tspan
+         sodipodi:role="line"
+         x="307.15692"
+         y="861.12878"
+         id="tspan5400" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.65650606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 425.19685,662.54521 0,99.2658"
+       id="path4233-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-size:35px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="407.45462"
+       y="781.63708"
+       id="text4581-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="407.45462"
+         y="781.63708"
+         id="tspan6059">c</tspan><tspan
+         sodipodi:role="line"
+         x="407.45462"
+         y="825.38708"
+         id="tspan5400-4" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.00000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 407.48032,751.18109 17.71653,0 0,0"
+       id="path4648"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-5-7)"
+       d="m 425.19686,751.18109 17.71654,0 0,0"
+       id="path4650"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend-0-1)"
+       d="m 389.76378,751.18109 17.71654,0 0,0"
+       id="path4652"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\msys64\home\Torsten\development\kicad_via_stitching\pcbnew\scripting\tools\viastitching\dialogs\stitchvia.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
