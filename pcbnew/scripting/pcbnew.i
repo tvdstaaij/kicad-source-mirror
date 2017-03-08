@@ -41,6 +41,9 @@
 
 %ignore BOARD_ITEM::ZeroOffset;
 %ignore D_PAD::m_PadSketchModePenSize;
+%ignore PCB_SCREEN::SetLastZoom;
+%ignore PCB_SCREEN::SetPreviousZoom;
+%ignore PCB_SCREEN::SetNextZoom();
 
 // rename the Add method of classes to Add native, so we will handle
 // the Add method in python
@@ -51,6 +54,8 @@
 %rename(AddChild) MODULE::Add;
 %rename(RemoveChild) MODULE::Remove;
 %rename(DeleteChild) MODULE::Delete;
+
+typedef long long time_t; 
 
 %exception {
     try{
@@ -77,6 +82,8 @@
 }
 %include exception.i
 
+%include <boost_shared_ptr.i>
+%shared_ptr(NETCLASS)
 
 // this is what it must be included in the wrapper .cxx code to compile
 
@@ -105,6 +112,12 @@
   #include <class_zone_settings.h>
   #include <class_netclass.h>
   #include <class_netinfo.h>
+  #include <class_pcb_screen.h>
+  #include <zones.h>
+  
+  #include <boost/polygon/polygon.hpp>
+  #include <../polygon/polygons_defs.h>
+
   #include <pcbnew_scripting_helpers.h>
 
   #include <plotcontroller.h>
@@ -113,8 +126,15 @@
   #include <colors.h>
 
   BOARD *GetBoard(); /* get current editor board */
-%}
+  void RedrawGalCanvas(); /* Redraws the board */
+  PCB_SCREEN* GetPcbScreen(); /* Get the current PCB screen */ 
+  wxPoint GetGridSize(PCB_SCREEN* aPcbScreen); /* returns the grid size of the given screen */
 
+  void SaveCopyInUndoList(const PICKED_ITEMS_LIST& aItemsList,
+                            UNDO_REDO_T        aTypeCommand,
+                            const wxPoint&     aTransformPoint);
+  void OnModify();
+%}
 
 %{
   #include <io_mgr.h>
@@ -144,6 +164,8 @@
 %include <class_zone_settings.h>
 %include <class_netclass.h>
 %include <class_netinfo.h>
+%include <class_pcb_screen.h>
+%include <zones.h>
 
 %include <plotcontroller.h>
 %include <pcb_plot_params.h>
@@ -155,6 +177,9 @@
 
 %include <pcbnew_scripting_helpers.h>
 
+// Instantiate templates for pad vectors
+%include "std_vector.i"
+%template(PadVector) std::vector<D_PAD*>;
 
 // ignore RELEASER as nested classes are still unsupported by swig
 %ignore IO_MGR::RELEASER;
@@ -166,4 +191,7 @@
 %include "plugins.i"
 %include "units.i"
 
-
+%include "tool.i"
+%include "pnsrouter.i"
+%include "view.i"
+%include "gal.i"

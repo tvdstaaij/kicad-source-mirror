@@ -55,6 +55,13 @@ public:
      */
     int OnSelectionChange( const TOOL_EVENT& aEvent );
 
+    /**
+     * Function GetEditParent()
+     *
+     * Get the related parent item which is edited.
+     */
+    EDA_ITEM* GetEditParent() const;
+
     ///> Sets up handlers for various events.
     void SetTransitions();
 

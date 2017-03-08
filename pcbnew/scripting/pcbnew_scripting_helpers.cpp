@@ -32,6 +32,7 @@
 #include <pcbnew_scripting_helpers.h>
 #include <pcbnew.h>
 #include <pcbnew_id.h>
+#include <pcb_draw_panel_gal.h>
 #include <build_version.h>
 #include <class_board.h>
 #include <kicad_string.h>
@@ -43,12 +44,70 @@ static PCB_EDIT_FRAME* PcbEditFrame = NULL;
 
 BOARD* GetBoard()
 {
+    PcbEditFrame->GetGalCanvas();
     if( PcbEditFrame )
         return PcbEditFrame->GetBoard();
     else
         return NULL;
 }
 
+
+void RedrawGalCanvas()
+{
+    if( PcbEditFrame )
+    {
+        if( PcbEditFrame->IsGalCanvasActive() )
+        {
+            PcbEditFrame->UseGalCanvas(true);
+        }
+    }
+}
+
+
+void SaveCopyInUndoList(const PICKED_ITEMS_LIST& aItemsList, UNDO_REDO_T aTypeCommand,
+        const wxPoint& aTransformPoint)
+{
+    if( PcbEditFrame )
+    {
+        if( PcbEditFrame->IsGalCanvasActive() )
+        {
+            PcbEditFrame->SaveCopyInUndoList( aItemsList, aTypeCommand, aTransformPoint );
+        }
+    }
+}
+
+
+void OnModify()
+{
+    if( PcbEditFrame )
+    {
+        PcbEditFrame->OnModify();
+    }
+}
+
+
+PCB_SCREEN* GetPcbScreen()
+{
+    if( PcbEditFrame )
+        return PcbEditFrame->GetScreen();
+    else
+        return NULL;
+}
+
+
+TOOL_MANAGER* GetToolManager()
+{
+    if( PcbEditFrame )
+        return PcbEditFrame->GetToolManager();
+    else
+        return NULL;
+}
+
+
+wxPoint GetGridSize(PCB_SCREEN* aPcbScreen)
+{
+	return wxPoint(aPcbScreen->GetGrid().m_Size.x, aPcbScreen->GetGrid().m_Size.y);
+}
 
 void ScriptingSetPcbEditFrame( PCB_EDIT_FRAME* aPCBEdaFrame )
 {

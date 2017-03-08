@@ -185,6 +185,17 @@ public:
         return m_Pcb;
     }
 
+    /** 
+     * Function GetToolManager
+     * returns the tool manager of the current frame.
+     * @return the tool manager.
+     */
+    TOOL_MANAGER* GetToolManager() const
+    {
+        wxASSERT( m_toolManager );
+        return m_toolManager;
+    }
+
     // General
     virtual void OnCloseWindow( wxCloseEvent& Event ) = 0;
     virtual void RedrawActiveWindow( wxDC* DC, bool EraseBg ) { }

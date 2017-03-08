@@ -1081,13 +1081,13 @@ int CPolyLine::Distance( wxPoint aStart, wxPoint aEnd, int aWidth )
  * Calculates the distance between a point and polygon (with holes):
  * param aPoint is the coordinate of the point.
  * return distance between the point and outline.
- *               0 if the point is inside
+ *               0 if the point is inside and isInside is false
  */
-int CPolyLine::Distance( const wxPoint& aPoint )
+int CPolyLine::Distance( const wxPoint& aPoint, bool isInside )
 {
     // We calculate the dist between the point and each outline segment
     // If the point is inside the outline, the dist is 0.
-    if( TestPointInside( aPoint.x, aPoint.y ) )
+    if( TestPointInside( aPoint.x, aPoint.y ) != isInside )
         return 0;
 
     int distance    = INT_MAX;

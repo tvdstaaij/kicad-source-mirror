@@ -439,9 +439,9 @@ public:
      * Calculates the distance between a point and the zone:
      * @param aPoint the coordinate of the point.
      * @return int = distance between the point and outline.
-     *               0 if the point is inside
+     *               0 if the point is inside and isInside is false
      */
-    int     Distance( const wxPoint& aPoint );
+    int     Distance( const wxPoint& aPoint, bool isInside = false );
 
     /**
      * Function Distance

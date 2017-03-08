@@ -198,6 +198,10 @@ void POINT_EDITOR::Reset( RESET_REASON aReason )
     m_altConstraint.reset();
 }
 
+EDA_ITEM* POINT_EDITOR::GetEditParent() const
+{
+    return m_editPoints->GetParent();
+}
 
 bool POINT_EDITOR::Init()
 {
@@ -235,7 +239,6 @@ void POINT_EDITOR::updateEditedPoint( const TOOL_EVENT& aEvent )
     if( m_editedPoint != point )
         setEditedPoint( point );
 }
-
 
 int POINT_EDITOR::OnSelectionChange( const TOOL_EVENT& aEvent )
 {

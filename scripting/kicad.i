@@ -32,6 +32,9 @@
 %include <std_string.i>
 %include <std_map.i>
 
+%ignore VIEW::SetLayerTarget;
+%ignore VIEW::ClearLayer;
+
 /* ignore some constructors of EDA_ITEM that will make the build fail */
 
 %nodefaultctor EDA_ITEM;
@@ -54,10 +57,30 @@
 %ignore operator <<;
 %ignore operator=;
 
+typedef long long time_t; 
+
+/* FIXME These functions are not implementet yet */
+%ignore SHAPE_POLY_SET::HasHoles;
+%ignore SHAPE_POLY_SET::Unfracture;
+%ignore SHAPE_POLY_SET::IsSelfIntersecting;
+%ignore SHAPE_POLY_SET::HoleCount;
+
+/* FIXME these cause linking errors */
+%ignore VECTOR2_TRAITS<int>::ECOORD_MIN;
+%ignore VECTOR2_TRAITS<int>::ECOORD_MAX;
 
 /* headers/imports that must be included in the _wrapper.cpp at top */
 
 %{
+    #include <geometry/shape.h>
+    #include <geometry/shape_line_chain.h>
+    #include <geometry/shape_poly_set.h>
+
+    #include <math/vector2d.h>
+
+    #include <gal/definitions.h>
+    #include <view/view_item.h>
+
     #include <cstddef>
     #include <dlist.h>
     #include <base_struct.h>
@@ -74,6 +97,8 @@
     #include <eda_text.h>
     #include <convert_from_iu.h>
     #include <convert_to_biu.h>
+    #include <class_undoredo_container.h>
+    #include <class_base_screen.h>
 %}
 
 /* all the wx wrappers for wxString, wxPoint, wxRect, wxChar .. */
@@ -97,6 +122,15 @@
 
 /* header files that must be wrapped */
 
+%include <geometry/shape.h>
+%include <geometry/shape_line_chain.h>
+%include <geometry/shape_poly_set.h>
+
+%include <math/vector2d.h>
+
+%include <gal/definitions.h>
+
+%include <view/view_item.h>
 %include <dlist.h>
 %include <base_struct.h>
 %include <class_eda_rect.h>
@@ -107,7 +141,9 @@
 %include <eda_text.h>
 %include <convert_from_iu.h>
 %include <convert_to_biu.h>
+%include <class_undoredo_container.h>
 %include <fpid.h>
+%include <class_base_screen.h>
 
 /* special iteration wrapper for DLIST objects */
 %include "dlist.i"
@@ -115,6 +151,11 @@
 /* std template mappings */
 %template(intVector) std::vector<int>;
 %template(str_utf8_Map) std::map< std::string,UTF8 >;
+
+%template(VECTOR2D_TRAITS) VECTOR2_TRAITS<double>;
+%template(VECTOR2I_TRAITS) VECTOR2_TRAITS<int>;
+%template(VECTOR2D) VECTOR2<double>;
+%template(VECTOR2I) VECTOR2<int>;
 
 // wrapper of BASE_SEQ (see typedef std::vector<LAYER_ID> BASE_SEQ;)
 %template(base_seqVect) std::vector<enum LAYER_ID>;
@@ -157,4 +198,3 @@
 
     %}
 }
-

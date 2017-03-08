@@ -355,6 +355,9 @@ PNS_ITEM* PNS_ROUTER::syncPad( D_PAD* aPad )
     return solid;
 }
 
+PNS_ITEM* PNS_ROUTER::CreateSolidFromPad( D_PAD* aPad ){
+    return syncPad(aPad);
+}
 
 PNS_ITEM* PNS_ROUTER::syncTrack( TRACK* aTrack )
 {

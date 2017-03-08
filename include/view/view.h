@@ -308,7 +308,8 @@ public:
      * Removes all items from a given layer.
      * @param aLayer: ID of the layer to be cleared
      */
-    void ClearLayer( int aLayer );
+    // TODO Implement this
+    // void ClearLayer( int aLayer );
 
     /**
      * Function Clear()
@@ -359,7 +360,7 @@ public:
      * @param aLayer is the layer.
      * @param aTarget is the rendering target.
      */
-    inline void SetLayerTarget( int aLayer, RENDER_TARGET aTarget )
+    inline void SetLayerTarget( int aLayer, KIGFX::RENDER_TARGET aTarget )
     {
         wxASSERT( aLayer < (int) m_layers.size() );
 

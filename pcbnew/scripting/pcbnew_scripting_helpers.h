@@ -37,11 +37,22 @@ void    ScriptingSetPcbEditFrame( PCB_EDIT_FRAME* aPCBEdaFrame );
 
 BOARD*  GetBoard();
 
+// TODO: Use a better implementation
+void    RedrawGalCanvas();
+
+PCB_SCREEN* GetPcbScreen();
+wxPoint     GetGridSize(PCB_SCREEN* aPcbScreen);
+
+void SaveCopyInUndoList(const PICKED_ITEMS_LIST& aItemsList,
+                        UNDO_REDO_T aTypeCommand, const wxPoint& aTransformPoint);
+void OnModify();
+
+TOOL_MANAGER* GetToolManager();
+
 BOARD*  LoadBoard( wxString& aFileName, IO_MGR::PCB_FILE_T aFormat );
 BOARD*  LoadBoard( wxString& aFileName );
 
 bool    SaveBoard( wxString& aFileName, BOARD* aBoard, IO_MGR::PCB_FILE_T aFormat );
 bool    SaveBoard( wxString& aFileName, BOARD* aBoard );
-
 
 #endif

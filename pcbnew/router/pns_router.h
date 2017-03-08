@@ -98,6 +98,8 @@ public:
     void SetBoard( BOARD* aBoard );
     void SyncWorld();
 
+    PNS_ITEM* CreateSolidFromPad( D_PAD* aPad );
+
     void SetView( KIGFX::VIEW* aView );
 
     bool RoutingInProgress() const;

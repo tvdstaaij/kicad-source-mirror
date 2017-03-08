@@ -375,6 +375,9 @@ if( KICAD_SCRIPTING )
         DEPENDS scripting/module.i
         DEPENDS scripting/plugins.i
         DEPENDS scripting/units.i
+        DEPENDS scripting/pnsrouter.i
+        DEPENDS scripting/tool.i
+        DEPENDS scripting/gal.i
         DEPENDS ../scripting/dlist.i
         DEPENDS ../scripting/kicad.i
         DEPENDS ../scripting/wx.i
